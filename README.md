@@ -63,7 +63,7 @@ Me chamo Sofia Gomes Celis, tenho 19 anos e atualmente estou cursando Sistemas d
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="100" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=sofiacelis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
