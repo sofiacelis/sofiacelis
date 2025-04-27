@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Sofia Gomes Celis
 
-Me chamo Sofia Gomes Celis, tenho 19 anos e atualmente estou cursando Sistemas de Informação no Centro Universitário Eniac.
+Me chamo Sofia Gomes Celis, tenho 19 anos e atualmente estou no 3º semestre em Sistemas de Informação no Centro Universitário Eniac.
 
 ---
 ### 🤖 Linguagens e Tecnologias
